@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Getting Started with React",
+    "category": "React",
+    "author": "Abhigyan Singh",
+    "date": "October 1, 2026",
+    "excerpt": "Learn the basics of React components, props and state."
+  },
+  {
+    "id": 2,
+    "title": "Why Learn JavaScript?",
+    "category": "JavaScript",
+    "author": "Abhigyan Singh",
+    "date": "October 2, 2026",
+    "excerpt": "JavaScript is one of the most important technologies for modern web development."
+  },
+  {
+    "id": 3,
+    "title": "Understanding CSS Flexbox",
+    "category": "CSS",
+    "author": "Abhigyan Singh",
+    "date": "October 3, 2026",
+    "excerpt": "Flexbox makes it easier to create flexible and responsive web layouts."
+  },
+  {
+    "id": 4,
+    "title": "Responsive Web Design",
+    "category": "Web Development",
+    "author": "Abhigyan Singh",
+    "date": "October 4, 2026",
+    "excerpt": "Build websites that look great on phones, tablets and desktops."
+  },
+  {
+    "id": 5,
+    "title": "Introduction to Node.js",
+    "category": "Node.js",
+    "author": "Abhigyan Singh",
+    "date": "October 5, 2026",
+    "excerpt": "Discover how Node.js allows JavaScript to run outside the browser."
+  },
+  {
+    "id": 6,
+    "title": "MERN Stack Development",
+    "category": "MERN",
+    "author": "Abhigyan Singh",
+    "date": "October 6, 2026",
+    "excerpt": "Understand how MongoDB, Express, React and Node.js work together."
+  }
+]
